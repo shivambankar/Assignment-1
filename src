@@ -1,3 +1,14 @@
+Java language is used for coding.
+
+Algorithm :
+Start
+Input name
+Generate random id between 0 to 999
+Generate date, tiime of the request.
+Output name, id, date-time
+End
+
+
 //Create a program/page to take user name as input or as an api param, and display/return the following
 //        A random generated id -> Different every time
 //        Name that comes as a param
