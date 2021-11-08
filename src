@@ -6,7 +6,7 @@ Generate date, tiime of the request.
 Output name, id, date-time
 End
 
-
+CODE :
 //Create a program/page to take user name as input or as an api param, and display/return the following
 //        A random generated id -> Different every time
 //        Name that comes as a param
